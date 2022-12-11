@@ -1,0 +1,8 @@
+# 飞书应用设置,暂未生效
+lark:
+  accessKey: cli_xxxxxxx
+  secretKey: xxxxxxxxxxxxx
+
+# 飞书机器人配置,会遍历所有配置,发送消息
+larkBots:
+  - https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxxxxxxxxx
